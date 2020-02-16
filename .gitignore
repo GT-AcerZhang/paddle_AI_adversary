@@ -1,0 +1,7 @@
+*
+!datasets/input_image/*
+!*/
+!*.py
+!.gitignore
+!*.txt
+!*.md
