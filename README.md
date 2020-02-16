@@ -1,3 +1,4 @@
+本项目基于百度飞桨实现，感谢百度 AI Studio 的支持。
 百度 AI 安全对抗赛初赛第一名，决赛第五名。决赛分数92.63601，avg_mse:7.25582。
 
 ### 安装
@@ -6,8 +7,7 @@
 git clone https://github.com/txyugood/baidu_AI_adversary.git
 cd baidu_AI_adversary
 ```
-下载预训练模型：
-下载地址：https://aistudio.baidu.com/aistudio/datasetdetail/19746
+下载预训练模型，下载地址：https://aistudio.baidu.com/aistudio/datasetdetail/19746
 解压模型：
 ```
 tar xvf pretrained.tar.bz2
