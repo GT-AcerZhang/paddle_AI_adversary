@@ -4,7 +4,7 @@
 ### 安装
 下载代码：
 ```
-git clone https://github.com/txyugood/baidu_AI_adversary.git
+git clone https://github.com/txyugood/paddle_AI_adversary.git
 cd baidu_AI_adversary
 ```
 下载预训练模型，下载地址：https://aistudio.baidu.com/aistudio/datasetdetail/19746
